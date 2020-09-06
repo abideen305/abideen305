@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# I am **Abideen Muhammed,** `Software Developer / Data Scientist.`
+
+🔭 I am currently working on some Data Science projects.
+
+## 🌱 I am currently learning Django for Back End and a virtual intern in AI/ML field sponsored by DataCamp.
+
+### 📫 How to reach me: `08179651769 and abideenmuhammed2018@gmail.com`
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+### Thank you
